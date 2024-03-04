@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  1 MAR 2024 10:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  4 MAR 2024 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1468,7 +1468,7 @@ Package rerunfilecheck Info: File `bm.out' has not changed.
 Here is how much of TeX's memory you used:
  47517 strings out of 476025
  1108021 string characters out of 5790018
- 1882388 words of memory out of 5000000
+ 1883388 words of memory out of 5000000
  67225 multiletter control sequences out of 15000+600000
  569536 words of font info for 145 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1480,7 +1480,7 @@ e/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on bm.pdf (1 page, 49484 bytes).
+Output written on bm.pdf (1 page, 49334 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
